@@ -1,0 +1,21 @@
+/* بس معلومة مهمة الى انا بكتبو هنا بيكون فى الاستيل بس الى فى الهيد 
+اعمل انسبكت وخش على الهيد هتلقى عامل 
+<style> and add them there
+
+import './index.css'; ودا انا عاملو 
+in the file index.js
+*/
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.title, h2{
+  text-align: center;
+}

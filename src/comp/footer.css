@@ -1,0 +1,56 @@
+/* import "./footer.css"fotter.js انا ضفت دى فى  */
+/* بس بقاء انا اما ضفتها هنا اضافت فى 
+ بس معلومة مهمة الى انا بكتبو هنا بيكون فى الاستيل بس الى فى الهيد 
+اعمل انسبكت وخش على الهيد هتلقى عامل 
+<style> and add them there
+css.js نفس الى خصل فى ملف 
+
+انا عموما خات الكود دا من الاستيل و حطيتو هنا بتاع الفوتر 
+*/
+footer{
+ background-color: #1b1b1b;
+
+ padding: 20px 0;
+ text-align: center;
+ font-size: 18px;
+}
+
+/* 
+
+look i puted class mohamed in header and footer so it will work with me normal here too its puplic
+
+but if i want to make a class privte only for footer
+
+all of this in the video in the minutes 16
+https://www.youtube.com/watch?v=YgfiWLca1mY&list=PLeWmXrh00478cne-60B6MeU85l42cry2v&index=14
+
+*/
+
+/* 
+https://www.youtube.com/watch?v=jz3-Cc8fbgQ&list=PLeWmXrh00478cne-60B6MeU85l42cry2v&index=18
+دا درس شارح فى ازاى اعمل كلاس خاص فى طريقتين الطريقة الاولى انا شارحتها وسهلة تحت الطريقة التانية
+والى هى مديول اغير اسم الملف 
+
+footer.module.css وبعدها اتفرج هو عامل اية هى سهلة بس مش مستهال انى اجربها
+
+*/
+
+.mohamed{
+ /* background-color: teal; */
+}
+
+/* 
+كدة انا عاملت كلاس خاص بالفتوتر مش بابلك عشان ميجيش برضو على الهدير عاملت اية 
+روحت عملت للفوتر عنصر اب وسميتو ماى فوتر وعاملت بعدها الى شفتو
+
+.my-footer footer{
+ background-color: #1b1b1b;
+
+ padding: 20px 0;
+ text-align: center;
+ font-size: 18px;
+}
+
+.my-footer .mohamed{
+ background-color: teal;
+} */

@@ -1,0 +1,25 @@
+/* انا شرارح كل حاجة فى الفوتر ودا فى درس
+https://www.youtube.com/watch?v=YgfiWLca1mY&list=PLeWmXrh00478cne-60B6MeU85l42cry2v&index=13
+*/
+
+/* ==================
+    3. header of mobile
+===================== */
+.show-when-mobile {
+ display: none;
+}
+
+.hide-when-mobile {
+ display: flex;
+ justify-content: space-around;
+}
+
+@media (max-width: 800px) {
+ .show-when-mobile {
+  display: block;
+}
+
+.hide-when-mobile {
+  display: none;
+}
+}
