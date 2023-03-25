@@ -23,28 +23,28 @@ const Stats = () => {
       <div className="box">
         <i className="far fa-user fa-2x fa-fw" />
         <span className="number" data-goal={150}>
-          0
+        150
         </span>
         <span className="text">Clients</span>
       </div>
       <div className="box">
         <i className="fas fa-code fa-2x fa-fw" />
         <span className="number" data-goal={135}>
-          0
+          135
         </span>
         <span className="text">Projects</span>
       </div>
       <div className="box">
         <i className="fas fa-globe-asia fa-2x fa-fw" />
         <span className="number" data-goal={50}>
-          0
+          50
         </span>
         <span className="text">Countries</span>
       </div>
       <div className="box">
         <i className="far fa-money-bill-alt fa-2x fa-fw" />
         <span className="number" data-goal={500}>
-          0
+          500
         </span>
         <span className="text">Money</span>
       </div>
